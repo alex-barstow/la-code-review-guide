@@ -18,6 +18,8 @@ Single line: https://github.com/nodejs/node/blob/master/lib/assert.js#L86
 
 Multiple lines: https://github.com/nodejs/node/blob/master/lib/assert.js#L86-L89
 
+When making a critique, at the very least explain why something should/could be changed, but preferably offer another solution to accompany the critique.
+
 ## Etiquette
 Please treat this forum as you would a professional work environment. Comport yourself accordingly.
 
